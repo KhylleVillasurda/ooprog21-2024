@@ -65,7 +65,7 @@ public class TestCircle {
 
         c.setRadius(50);
 System.out.println("Radius of the third circle: " + Circle.getRadius());
-        System.out.println("Diameter of the second circle: " + Circle.getDiameter());
-        System.out.println("Area of the second circle: " + Circle.getArea());  
+        System.out.println("Diameter of the third circle: " + Circle.getDiameter());
+        System.out.println("Area of the third circle: " + Circle.getArea());  
     }
 }
